@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Module that takes a float n as argument and returns the floor of the float."""
+"""
+Module that takes a float n as argument
+and returns the floor of the float.
+"""
 import math
 
 
